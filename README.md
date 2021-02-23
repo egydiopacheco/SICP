@@ -11,8 +11,7 @@ compilers.  (Text from Wikipedia)
 
 - Provide intuition I gained in each section
 
-- Watch the [Lectures]([Video Lectures | Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/))
-
+- Watch the [Lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 
 
 ## Updates:
